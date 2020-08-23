@@ -1,6 +1,5 @@
 aaaa
 测试 modify demo3
 测试 demo1 modify
->>>>>>> 14f2bc8fe25d9cb83cd6afabba65c1bcab83e126
 demo2
 demo2 modify
